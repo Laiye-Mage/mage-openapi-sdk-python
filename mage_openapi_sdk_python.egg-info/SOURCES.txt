@@ -1,0 +1,9 @@
+README.md
+setup.py
+MageSDK/__init__.py
+MageSDK/mage.py
+MageSDK/test.py
+mage_openapi_sdk_python.egg-info/PKG-INFO
+mage_openapi_sdk_python.egg-info/SOURCES.txt
+mage_openapi_sdk_python.egg-info/dependency_links.txt
+mage_openapi_sdk_python.egg-info/top_level.txt
