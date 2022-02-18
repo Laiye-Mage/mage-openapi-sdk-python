@@ -115,7 +115,7 @@ class Mage():
         """
         https://mage.uibot.com.cn/docs/latest/docUnderstanding/backend/api.html#operation/OcrService_OcrTemplateRecognize
         """
-        url = "{}/v1/mage/ocr/template".format(self.endpoint)
+        url = "{}/v1/document/ocr/template".format(self.endpoint)
         req_data = {
             "with_struct_info": with_struct_info,
             "with_raw_info": with_raw_info,
